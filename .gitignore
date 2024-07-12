@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore build artifacts
+build/
+dist/
